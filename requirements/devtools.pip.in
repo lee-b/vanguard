@@ -5,3 +5,4 @@ pytest-sugar
 flake8
 mypy-lang
 tox
+alembic

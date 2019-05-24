@@ -2,5 +2,4 @@ h11~=0.8.1
 quart
 quart-openapi
 sqlalchemy
-flask-sqlalchemy
 straight.plugin
