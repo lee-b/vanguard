@@ -1,0 +1,7 @@
+pipenv
+pudb
+pytest
+pytest-sugar
+flake8
+mypy-lang
+tox
