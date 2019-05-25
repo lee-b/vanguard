@@ -57,6 +57,8 @@ def run_migrations_offline():
         include_schemas=True,
     )
 
+#    context._ensure_version_table()
+
     with context.begin_transaction():
         context.run_migrations()
 
@@ -80,6 +82,8 @@ def run_migrations_online():
             target_metadata=target_metadata,
             include_schemas=True,
         )
+
+#        context._ensure_version_table()
 
         with context.begin_transaction():
             context.run_migrations()
