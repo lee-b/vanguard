@@ -2,7 +2,7 @@
 
 # Overview
 
-This is intended to be a modern re-implementation of Nightscout.  Pre-pre-pre-alpha status; not usable yet.
+This is intended to be a modern re-implementation of Nightscout.  **Pre-pre-pre-alpha status; not usable yet.**
 
 It aims to be:
 
